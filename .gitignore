@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+nltk_data/
+
+# This folder is a duplicate source copy, not part of the top-level BuddyBot project.
+Live-Chatbot-for-Final-Year-Project-main/
